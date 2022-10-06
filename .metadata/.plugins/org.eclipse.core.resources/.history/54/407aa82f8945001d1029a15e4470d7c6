@@ -1,0 +1,21 @@
+
+public class test_P34 {
+	public static void main(String[] args)
+	{
+		
+		int num1 = 10;
+		int num2 = 5;
+		
+		System.out.println("num1和num2的各種運算 : ");
+		System.out.println("num1 + num2 = ");
+		System.out.println("變數num1 + num2的值是" + sum);
+		
+		num1 = num1 + 1;
+		
+		System.out.println("變數num1的值 + 1 是" + num1);
+	}
+}
+
+public class test_P34 {
+
+}
